@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Ethiopian National Voting</string>
+    <string name="name">Name</string>
+    <string name="educ">Education Level</string>
+    <string name="consti">Constituency</string>
+    <string name="work">Current Job</string>
+    <string name="add">Add</string>
+    <string name="registration">Registration</string>
+</resources>

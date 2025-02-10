@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7e57c2</color>
+    <color name="colorPrimaryDark">#4d2c91</color>
+    <color name="colorAccent">#b085f5</color>
+    <color name="red">#E94252</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FC007E</color>
+    <color name="gray">#bdbdbd</color>
+    <color name="primarydark">#C30052</color>
+    <color name="accent">#03A9F4</color>
+    <color name="bottomcardstart">#ca00ee</color>
+    <color name="bottomcardend">#D5A9E8</color>
+    <color name="Toolbarstart">#EFB2EF</color>
+    <color name="Toolbarend">#FB26F0</color>
+
+    <color name="time_one">#1E1B1C</color>
+    <color name="time_two">#C42556</color>
+</resources>

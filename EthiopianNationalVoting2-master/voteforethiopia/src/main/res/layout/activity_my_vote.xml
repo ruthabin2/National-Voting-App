@@ -1,0 +1,87 @@
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+
+<androidx.cardview.widget.CardView
+    android:id="@+id/cardView"
+    android:layout_margin="16dp"
+    app:cardCornerRadius="25dp"
+    app:cardElevation="14dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <!-- Add your desired content inside the CardView -->
+
+
+
+<ImageView
+
+        android:layout_width="match_parent"
+        android:layout_height="115dp"
+        android:layout_marginTop="0dp"
+        android:src="@drawable/myv"
+        />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textStyle="bold"
+    android:layout_marginTop="101dp"
+    android:layout_marginLeft="25dp"
+    android:text="Political Party :"
+    android:textSize="27dp"
+    />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="310dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="45dp"
+        android:background="@drawable/dropdown_buttton"
+        android:layout_marginTop="155dp"
+        android:contentDescription="@string/app_name"
+        android:scrollbarSize="@dimen/material_emphasis_medium"
+        android:spinnerMode="dropdown" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_marginTop="235dp"
+        android:layout_marginLeft="25dp"
+        android:text="Candidate :"
+        android:textSize="27dp"
+        />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="310dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="45dp"
+        android:background="@drawable/dropdown_buttton"
+        android:layout_marginTop="307dp"
+        android:contentDescription="@string/app_name"
+        android:scrollbarSize="@dimen/material_emphasis_medium"
+        android:spinnerMode="dropdown" />
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="210dp"
+        android:layout_marginTop="330dp"
+        android:layout_marginStart="130dp"
+        android:src="@drawable/vote"
+        android:id="@+id/votee"
+        />
+
+
+</androidx.cardview.widget.CardView>
+</LinearLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69897514783",
+    "project_id": "ethiopian-national-voting",
+    "storage_bucket": "ethiopian-national-voting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69897514783:android:cb86f2e999b00ddb1d4a2a",
+        "android_client_info": {
+          "package_name": "com.example.ethiopiannationalvoting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIjgHGUoBsE2H_86IUQWVdsxC3puQsi1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
